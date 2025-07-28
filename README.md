@@ -30,3 +30,6 @@ expensive.
 - Use Predictive Models: Apply data-driven strategies to set competitive prices.
 - Focus on Prime Locations: Target properties in high-demand areas with essential amenities for
  better returns.
+# 7. Visuals
+<img width="3074" height="1071" alt="Screenshot 2025-07-28 155252" src="https://github.com/user-attachments/assets/4787cb72-675a-4b0d-afdd-f27c7ee3b867" />
+
